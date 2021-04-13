@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.play-tetris-online.com\/tetris-html5\/"
+                 "value":"https:\/\/www.goodoldtetris.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
