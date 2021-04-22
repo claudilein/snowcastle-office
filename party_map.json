@@ -132,7 +132,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/doczi-dominik.itch.io\/breakdown"
+                 "value":"https:\/\/itch.io\/embed\/379334"
                 }],
          "type":"tilelayer",
          "visible":true,
