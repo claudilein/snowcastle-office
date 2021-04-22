@@ -12,8 +12,8 @@
    version="1.1"
    id="svg815"
    width="192"
-   height="192"
-   viewBox="0 0 192 192"
+   height="256"
+   viewBox="0 0 192 256"
    sodipodi:docname="labels.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="C:\Privat\Tile Editor\snowcastle-office\labels.png"
@@ -52,16 +52,16 @@
      fit-margin-bottom="0"
      inkscape:zoom="2.864586"
      inkscape:cx="129.16735"
-     inkscape:cy="84.613643"
+     inkscape:cy="126.50451"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg815" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none;"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none"
      x="-2.90625"
-     y="185.34375"
+     y="249.34375"
      id="text4531"
      inkscape:export-filename="C:\Privat\Tile Editor\snowcastle-office\rocketpult_ label.png"
      inkscape:export-xdpi="96"
@@ -69,35 +69,35 @@
        sodipodi:role="line"
        id="tspan4529"
        x="-2.90625"
-       y="185.34375"
-       style="font-size:32px;fill:#562414;fill-opacity:1;">rocketpult</tspan></text>
+       y="249.34375"
+       style="font-size:32px;fill:#562414;fill-opacity:1">rocketpult</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-2.90625"
-     y="159.54697"
+     y="223.54701"
      id="text4535"><tspan
        sodipodi:role="line"
        id="tspan4533"
        x="-2.90625"
-       y="159.54697"
+       y="223.54701"
        style="font-size:32px;fill:#f7f71b;fill-opacity:1">naruto</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-0.734375"
-     y="121.34375"
+     y="185.34375"
      id="text4539"><tspan
        sodipodi:role="line"
        id="tspan4537"
        x="-0.734375"
-       y="121.34375"
+       y="185.34375"
        style="font-size:32px;fill:#77661d;fill-opacity:1">flappybird</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot4541"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(0,160)"><flowRegion
+     transform="translate(0,224)"><flowRegion
        id="flowRegion4543"><rect
          id="rect4545"
          width="140.33441"
@@ -108,18 +108,18 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#10c9ad;fill-opacity:1;stroke:none"
      x="-1.765625"
-     y="89.34375"
+     y="153.34375"
      id="text4551"><tspan
        sodipodi:role="line"
        id="tspan4549"
        x="-1.765625"
-       y="89.34375"
+       y="153.34375"
        style="fill:#49ddc5;fill-opacity:1">qwop</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-1.765625"
-     y="63.546875"
+     y="127.54688"
      id="text4555"
      inkscape:export-filename="C:\Privat\Tile Editor\snowcastle-office\labels.png"
      inkscape:export-xdpi="94.818771"
@@ -127,17 +127,37 @@
        sodipodi:role="line"
        id="tspan4553"
        x="-1.765625"
-       y="63.546875"
+       y="127.54688"
        style="fill:#49ddc5;fill-opacity:1">duck</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-2.90625"
-     y="31.546875"
+     y="95.546875"
      id="text4559"><tspan
        sodipodi:role="line"
        id="tspan4557"
        x="-2.90625"
-       y="31.546875"
+       y="95.546875"
        style="fill:#5906c2;fill-opacity:1">breakdown</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#49ddc5;fill-opacity:1;stroke:none"
+     x="-2.90625"
+     y="61.03125"
+     id="text4563"><tspan
+       sodipodi:role="line"
+       id="tspan4561"
+       x="-2.90625"
+       y="61.03125">meet / talk</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#49ddc5;fill-opacity:1;stroke:none"
+     x="-2.90625"
+     y="29.03125"
+     id="text4563-7"><tspan
+       sodipodi:role="line"
+       id="tspan4561-9"
+       x="-2.90625"
+       y="29.03125">misc</tspan></text>
 </svg>
