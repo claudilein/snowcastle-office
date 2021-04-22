@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lf.itch.io\/rocketpult"
+                 "value":"https:\/\/itch.io\/embed\/379334"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.foddy.net\/Athletics.html"
+                 "value":"https:\/\/www.foddy.net\/Athletics.html"
                 }],
          "type":"tilelayer",
          "visible":true,
