@@ -222,7 +222,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/branthnl.itch.io\/duck"
+                 "value":"https:\/\/itch.io\/embed\/517232"
                 }],
          "type":"tilelayer",
          "visible":true,
