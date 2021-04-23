@@ -12,8 +12,8 @@
    version="1.1"
    id="svg815"
    width="192"
-   height="256"
-   viewBox="0 0 192 256"
+   height="320"
+   viewBox="0 0 192 320"
    sodipodi:docname="labels.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="C:\Privat\Tile Editor\snowcastle-office\labels.png"
@@ -43,20 +43,41 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="1017"
      id="namedview817"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="2.864586"
-     inkscape:cx="129.16735"
-     inkscape:cy="126.50451"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="2.0255682"
+     inkscape:cx="84.054345"
+     inkscape:cy="121.37419"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg815" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4541"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(0,288)"><flowRegion
+       id="flowRegion4543"><rect
+         id="rect4545"
+         width="140.33441"
+         height="35.258148"
+         x="-2.443634"
+         y="144.05807" /></flowRegion><flowPara
+       id="flowPara4547">qwop</flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#49ddc5;fill-opacity:1;stroke:none"
+     x="-2.90625"
+     y="29.03125"
+     id="text4563-7"><tspan
+       sodipodi:role="line"
+       id="tspan4561-9"
+       x="-2.90625"
+       y="29.03125">misc</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none"
@@ -93,18 +114,7 @@
        x="-0.734375"
        y="185.34375"
        style="font-size:32px;fill:#77661d;fill-opacity:1">flappybird</tspan></text>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot4541"
-     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(0,224)"><flowRegion
-       id="flowRegion4543"><rect
-         id="rect4545"
-         width="140.33441"
-         height="35.258148"
-         x="-2.443634"
-         y="144.05807" /></flowRegion><flowPara
-       id="flowPara4547">qwop</flowPara></flowRoot>  <text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#10c9ad;fill-opacity:1;stroke:none"
      x="-1.765625"
@@ -133,12 +143,12 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-2.90625"
-     y="95.546875"
+     y="95.546883"
      id="text4559"><tspan
        sodipodi:role="line"
        id="tspan4557"
        x="-2.90625"
-       y="95.546875"
+       y="95.546883"
        style="fill:#5906c2;fill-opacity:1">breakdown</tspan></text>
   <text
      xml:space="preserve"
@@ -150,14 +160,31 @@
        id="tspan4561"
        x="-2.90625"
        y="61.03125">meet / talk</tspan></text>
-  <text
+  <flowRoot
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#49ddc5;fill-opacity:1;stroke:none"
-     x="-2.90625"
-     y="29.03125"
-     id="text4563-7"><tspan
-       sodipodi:role="line"
-       id="tspan4561-9"
-       x="-2.90625"
-       y="29.03125">misc</tspan></text>
-</svg>
+     id="flowRoot839"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none;"
+     transform="translate(13.457031,-15.525391)"><flowRegion
+       id="flowRegion841"
+       style="fill:#562414;fill-opacity:1;"><rect
+         id="rect843"
+         width="322.37869"
+         height="41.469849"
+         x="-14.316971"
+         y="274.76016"
+         style="fill:#562414;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara906">tournament </flowPara><flowPara
+       id="flowPara910">s co</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot912"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none;"
+     transform="translate(0.24023438,-15.03125)"><flowRegion
+       id="flowRegion914"
+       style="fill:#562414;fill-opacity:1;"><rect
+         id="rect916"
+         width="147.6129"
+         height="39.495083"
+         x="-1.9747546"
+         y="306.26648"
+         style="fill:#562414;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara918">scores</flowPara></flowRoot></svg>
