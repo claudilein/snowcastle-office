@@ -12,8 +12,8 @@
    version="1.1"
    id="svg815"
    width="192"
-   height="320"
-   viewBox="0 0 192 320"
+   height="352"
+   viewBox="0 0 192 352"
    sodipodi:docname="labels.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="C:\Privat\Tile Editor\snowcastle-office\labels.png"
@@ -52,7 +52,7 @@
      fit-margin-bottom="0"
      inkscape:zoom="2.0255682"
      inkscape:cx="84.054345"
-     inkscape:cy="121.37419"
+     inkscape:cy="141.12174"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -61,7 +61,7 @@
      xml:space="preserve"
      id="flowRoot4541"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(0,288)"><flowRegion
+     transform="translate(0,320)"><flowRegion
        id="flowRegion4543"><rect
          id="rect4545"
          width="140.33441"
@@ -149,7 +149,7 @@
        id="tspan4557"
        x="-2.90625"
        y="95.546883"
-       style="fill:#5906c2;fill-opacity:1">breakdown</tspan></text>
+       style="fill:#5906c2;fill-opacity:1">dx-ball</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#49ddc5;fill-opacity:1;stroke:none"
@@ -163,28 +163,39 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot839"
-     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none;"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none"
      transform="translate(13.457031,-15.525391)"><flowRegion
        id="flowRegion841"
-       style="fill:#562414;fill-opacity:1;"><rect
+       style="fill:#562414;fill-opacity:1"><rect
          id="rect843"
          width="322.37869"
          height="41.469849"
          x="-14.316971"
          y="274.76016"
-         style="fill:#562414;fill-opacity:1;" /></flowRegion><flowPara
+         style="fill:#562414;fill-opacity:1" /></flowRegion><flowPara
        id="flowPara906">tournament </flowPara><flowPara
        id="flowPara910">s co</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot912"
-     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none;"
-     transform="translate(0.24023438,-15.03125)"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#562414;fill-opacity:1;stroke:none"
+     transform="translate(0.24023438,-21.234375)"><flowRegion
        id="flowRegion914"
-       style="fill:#562414;fill-opacity:1;"><rect
+       style="fill:#562414;fill-opacity:1"><rect
          id="rect916"
-         width="147.6129"
-         height="39.495083"
+         width="200.43758"
+         height="39.495087"
          x="-1.9747546"
          y="306.26648"
-         style="fill:#562414;fill-opacity:1;" /></flowRegion><flowPara
-       id="flowPara918">scores</flowPara></flowRoot></svg>
+         style="fill:#562414;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara918">placement</flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="-2.90625"
+     y="345.34375"
+     id="text1022"><tspan
+       sodipodi:role="line"
+       id="tspan1020"
+       x="-2.90625"
+       y="345.34375"
+       style="fill:#562414;fill-opacity:1">highscores</tspan></text>
+</svg>
